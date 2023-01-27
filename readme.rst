@@ -1,7 +1,6 @@
-###################
+----------------
 Username : shufi	
 Password : admin
-###################
 
 ###################
 What is CodeIgniter
